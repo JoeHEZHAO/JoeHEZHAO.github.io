@@ -34,17 +34,18 @@ redirect_from:
         </ul>
     </nav>
 </div>
+<br />
 
 # Selected Works
-<table>
+<table style='background-color:transparent'>
     <tbody>
         <tr>
             <td>
                 Spatiotemporal Feature Residual Propagation for Action Prediction
             </td>
-            <td>
-                He Zhao, Richard P. Wildes
-            </td>
+        </tr>
+        <tr>
+            He Zhao, Richard P. Wildes
         </tr>
         <tr>
             <td>
@@ -75,6 +76,5 @@ redirect_from:
                 [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
             </td>
         </tr>
-
     </tbody>
-
+</table>
