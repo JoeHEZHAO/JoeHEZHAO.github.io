@@ -18,18 +18,17 @@ redirect_from:
 <div id='list_scroll'>
     <nav>
         <ul>
-            <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'>ICCV2019</a> ! See you in Seoul ! </li>
+            <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
+            <br />
             <li> 2018.01.15: I become a Ph.D. student in <a href='http://vision.eecs.yorku.ca/main/'>Vision Lab</a> </li>
-            <li> 2018.01.01: I received Ontario Tillium Scholarship that grants 40,000\$ annually for my Ph.D. </li>
-            <li> 2018.01.01: I received VISTA Scholarship that grants 10,000\$ annually for my Ph.D. </li>
-            <li> 2017.06~09: I did research summer internship with Deepinformatics LLC. for biomedical imaging </li>
+            <br />
+            <li> 2018.01.01: I received <a href='https://gradstudies.yorku.ca/current-students/student-finances/funding-awards/ots/'>Ontario Tillium Scholarship</a> that grants 40,000\$ annually for my Ph.D. </li>
+            <br />
+            <li> 2018.01.01: I received <a href='https://vista.info.yorku.ca/opportunities/doctoral-scholarships/'>VISTA Scholarship</a> that grants 10,000\$ annually for my Ph.D. </li>
+            <br />
+            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging </li>
+            <br />
             <li> 2017.05.01: I graduated from University of Florida Master in Computer Science</li>
-            <li> A </li>
-            <li> B </li>
-            <li> C </li>
-            <li> D </li>
-            <li> E </li>
-            <li> F </li>
         </ul>
     </nav>
 </div>
