@@ -47,53 +47,7 @@ redirect_from:
             <font color='red'>He Zhao, Richard P. Wildes</font>
         </tr><br />
         <tr>
-            <font color='green'> International Conference on Computer Vision (ICCV2019)
-        </tr>
-        <tr>
-            <td width="40%" style="border-style:hidden;">
-                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
-            </td>
-            <td style="border-style:hidden;">
-                <p style="text-align: justify;">
-                Recognizing actions from limited preliminary video observations
-                has seen considerable recent progress. Typically,
-                however, such progress has been had without explicitly
-                modeling fine-grained motion evolution as a potentially
-                valuable information source. We address this
-                task by investigating how action patterns evolve over time in 
-                a spatial feature space. There are three key components to 
-                our system. First, we work with intermediate-layer ConvNet 
-                features, which allow for abstraction from raw data, while 
-                retaining spatial layout, which is sacrificed in approaches 
-                that rely on vectorized global representations. Second, instead 
-                of propagating features per se, we propagate their 
-                residuals across time, which allows for a compact representation 
-                that reduces redundancy while retaining essential 
-                information about evolution over time. Third, we employ a 
-                Kalman filter to combat error build-up and unify across prediction 
-                start times.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td style="border-style:hidden;"> </td>
-            <td style="border-style:hidden;">
-                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table style='background-color:transparent border-collapse:collapse border: none'>
-    <tbody>
-        <tr>
-            Spatiotemporal Feature Residual Propagation for Action Prediction
-        </tr><br />
-        <tr>
-            <font color='red'>He Zhao, Richard P. Wildes</font>
-        </tr><br />
-        <tr>
-            <font color='green'> International Conference on Computer Vision (ICCV2019)
+            <font color='green'> International Conference on Computer Vision (ICCV2019) </font>
         </tr>
         <tr>
             <td width="40%" style="border-style:hidden;">
@@ -149,10 +103,47 @@ redirect_from:
                 </p>
             </td>
         </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
         <tr>
-            <td style="border-style:hidden;"> </td>
+            Deep Convolution Neural Network for Muscle Cell Segmentation 
+        </tr><br />
+        <tr>
+            <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
+        </tr><br />
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                <img src="https://JoeHEZHAO.github.io/images/segmentation.gif">
+                <img src="https://JoeHEZHAO.github.io/images/DeepNetworkArchitect.png">
+            </td>
             <td style="border-style:hidden;">
-                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
+                <p style="text-align: justify;">
+                Based on medical image data provided by BICI2 lab, implemented fully connected network edge detection methods with watershad as post-proecess and got a better detection and segmentation effect compared with random forest method. Now working on residual neural network to achieve better result and keep digging on deep learning.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
+        <tr>
+           Random Forest Muscle Cell Segmentation 
+        </tr><br />
+        <tr>
+            <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
+        </tr><br />
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                <img src="https://JoeHEZHAO.github.io/images/random_forest.gif">
+            </td>
+            <td style="border-style:hidden;">
+                <p style="text-align: justify;">
+                 Developed a cpp software implementation of an image segmentation algorithm based on paper <a href="https://arxiv.org/pdf/1406.5549.pdf" target="_blank">'Fast Edge Detection Using Structured Forests'(Piotr Dollár)</a>, for Muscle Cell Image gathered from University of Florida Shands Hospital. Combined with HOG(Histogram of oriented gradients) for feature extraction, UCM Segmentation algorithm, Watershed and self-defined Hierarchical segmentation framework for segmentation, this cpp dll-call software works quite well for our muscle cell data and totally get rid of matlab dependency.
+                </p>
             </td>
         </tr>
     </tbody>
