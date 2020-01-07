@@ -29,7 +29,7 @@ redirect_from:
             <br />
             <li> 2018.01.01: I received <a href='https://vista.info.yorku.ca/opportunities/doctoral-scholarships/'>VISTA Scholarship</a> that grants 10,000\$ annually for my Ph.D. </li>
             <br />
-            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging </li>
+            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging processing</li>
             <br />
             <li> 2017.05.01: I graduated from University of Florida Master in Computer Science</li>
         </ul>
@@ -134,7 +134,7 @@ redirect_from:
             <span style="bold; color: #000066;">Random Forest Muscle Cell Segmentation</span>
         </tr><br />
         <tr>
-            <font color='red'>He Zhao, Shaoju Wu, Pingjun Chen, Lin Yang</font>
+            <font color='red'>He Zhao, Shaoju Wu, Pingjun Chen, Mason, Lin Yang</font>
         </tr><br />
         <tr>
             <td width="40%" style="border-style:hidden;">
@@ -163,7 +163,7 @@ redirect_from:
             </td>
             <td style="border-style:hidden;">
                 <p style="text-align: justify;">
-                Using python FLASK framework as back-end to build up a website, which shows our recent accomplishments on Cell-Image Segmentation Research. And allows everyone to modify the contour as groundtruth for further training in deep learning. With Flask's strong server-client interaction functionality, visitors would be able to modify the contour of cell online and re-submit it back to server. To make it more interactive, we use deep zoom package, paper.js and openseadragon as well.
+                Using python FLASK framework to build up an online platform, which utilizes our recent accomplishments on Cell-Image Segmentation Research. And allows everyone to modify the contour as groundtruth for further training in deep learning. With Flask's strong server-client interaction functionality, visitors would be able to modify the contour of cell online and re-submit it back to server. To make it more interactive, we use deep zoom package, paper.js and openseadragon as well.
                 </p>
             </td>
         </tr>
