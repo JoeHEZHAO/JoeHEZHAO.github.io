@@ -13,3 +13,23 @@ redirect_from:
 
 [2015-2017]
 > Before my Ph.D. journey, I worked with Professor <a href='https://www.bme.ufl.edu/labs/yang/'> Lin Yang</a> at University of Florida (<font color='orange'>Go</font> <font color='blue'>Gator</font> !) as a master research assitant. During my stay, we came out some really cool projects towards biomedial imaging understanding (as listed below). 
+
+## Recent News
+<div id='list_scroll'>
+    <nav>
+        <ul>
+            <li> A </li>
+            <li> B </li>
+            <li> C </li>
+            <li> D </li>
+            <li> E </li>
+            <li> F </li>
+            <li> A </li>
+            <li> B </li>
+            <li> C </li>
+            <li> D </li>
+            <li> E </li>
+            <li> F </li>
+        </ul>
+    </nav>
+</div>
