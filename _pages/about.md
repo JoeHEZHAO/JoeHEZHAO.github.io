@@ -47,7 +47,7 @@ redirect_from:
         </tr>
         <tr>
             <td>
-                <img src="https://JoeHEZHAO.github.io/images/ICCV2019.png" alt="smile face" width=300, height=200 />
+                <img src="https://JoeHEZHAO.github.io/images/ICCV2019.png" alt="smile face" width=300, height=200 >
             </td>
             <td>
                 Recognizing actions from limited preliminary video observations \
@@ -70,6 +70,7 @@ redirect_from:
             </td>
         </tr>
         <tr>
+            <td> </td>
             <td>
                 [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
             </td>
