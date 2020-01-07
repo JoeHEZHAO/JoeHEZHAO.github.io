@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 [2017 ~ Now]
 > Machine/Computer Vision is such an <b>Exciting</b>/ <b>Fast-evolving</b>/ <b>Application-practical</b> field and I am delightful to be a part of it ! As a PhD. student under supervision of Professor <a href="http://www.cse.yorku.ca/~wildes/">Richard P. Wildes</a> York University Toronto Canada, my research focuses on video predictive understanding, which includes interesting tasks as Action/Activity Prediction/Anticiption, Video Prediction, Motion Planning, Vehicle/Pedestrian Trajectory tracking and etc. In a word, I do research on exploring the possible future.
@@ -48,25 +49,28 @@ redirect_from:
         <tr>
             <td>
                 <img src="https://JoeHEZHAO.github.io/images/profile.png">
+                <img src="{{ selectwork.ICCV2019 | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
             </td>
             <td>
-                Recognizing actions from limited preliminary video observations \
-                has seen considerable recent progress. Typically, \
-                however, such progress has been had without explicitly \
-                modeling fine-grained motion evolution as a potentially \
-                valuable information source. In this study, we address this \
-                task by investigating how action patterns evolve over time in \
-                a spatial feature space. There are three key components to \
-                our system. First, we work with intermediate-layer ConvNet \
-                features, which allow for abstraction from raw data, while \
-                retaining spatial layout, which is sacrificed in approaches \
-                that rely on vectorized global representations. Second, instead \
-                of propagating features per se, we propagate their \
-                residuals across time, which allows for a compact representation \
-                that reduces redundancy while retaining essential \
-                information about evolution over time. Third, we employ a \
-                Kalman filter to combat error build-up and unify across prediction \
+                <p>
+                Recognizing actions from limited preliminary video observations
+                has seen considerable recent progress. Typically,
+                however, such progress has been had without explicitly
+                modeling fine-grained motion evolution as a potentially
+                valuable information source. In this study, we address this
+                task by investigating how action patterns evolve over time in 
+                a spatial feature space. There are three key components to 
+                our system. First, we work with intermediate-layer ConvNet 
+                features, which allow for abstraction from raw data, while 
+                retaining spatial layout, which is sacrificed in approaches 
+                that rely on vectorized global representations. Second, instead 
+                of propagating features per se, we propagate their 
+                residuals across time, which allows for a compact representation 
+                that reduces redundancy while retaining essential 
+                information about evolution over time. Third, we employ a 
+                Kalman filter to combat error build-up and unify across prediction 
                 start times. Extensive experimental results on the JHMDB21, UCF101 and BIT datasets show that our approach leads to a new state-of-the-art in action prediction
+                </p>
             </td>
         </tr>
         <tr>
