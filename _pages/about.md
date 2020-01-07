@@ -23,7 +23,7 @@ redirect_from:
             <br />
             <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
             <br />
-            <li> 2018.01.15: I become a Ph.D. student in <a href='http://vision.eecs.yorku.ca/main/'>Vision Lab</a> </li>
+            <li> 2018.01.15: I become a Ph.D. student in <a href='http://vision.eecs.yorku.ca/main/'>Vision Lab</a> Start working with Prof. Richard P. Wildes on Video/Activity Analysis !</li>
             <br />
             <li> 2018.01.01: I received <a href='https://gradstudies.yorku.ca/current-students/student-finances/funding-awards/ots/'>Ontario Tillium Scholarship</a> that grants 40,000\$ annually for my Ph.D. </li>
             <br />
@@ -143,6 +143,27 @@ redirect_from:
             <td style="border-style:hidden;">
                 <p style="text-align: justify;">
                  Developed a cpp software implementation of an image segmentation algorithm based on paper <a href="https://arxiv.org/pdf/1406.5549.pdf" target="_blank">'Fast Edge Detection Using Structured Forests'(Piotr Dollár)</a>, for Muscle Cell Image gathered from University of Florida Shands Hospital. Combined with HOG(Histogram of oriented gradients) for feature extraction, UCM Segmentation algorithm, Watershed and self-defined Hierarchical segmentation framework for segmentation, this cpp dll-call software works quite well for our muscle cell data and totally get rid of matlab dependency.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
+        <tr>
+            <span style="bold; color: #000066;">Online Muscle Cell Annotation Tool</span>
+        </tr><br />
+        <tr>
+            <font color='red'>Pingjun Chen, He Zhao, Lin Yang</font>
+        </tr><br />
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                <img src="https://JoeHEZHAO.github.io/images/onlineAnnotationDemo.gif">
+            </td>
+            <td style="border-style:hidden;">
+                <p style="text-align: justify;">
+                Using python FLASK framework as back-end to build up a website, which shows our recent accomplishments on Cell-Image Segmentation Research. And allows everyone to modify the contour as groundtruth for further training in deep learning. With Flask's strong server-client interaction functionality, visitors would be able to modify the contour of cell online and re-submit it back to server. To make it more interactive, we use deep zoom package, paper.js and openseadragon as well.
                 </p>
             </td>
         </tr>
