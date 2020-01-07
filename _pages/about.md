@@ -155,7 +155,7 @@ redirect_from:
             <span style="bold; color: #000066;">Online Muscle Cell Annotation Tool</span>
         </tr><br />
         <tr>
-            <font color='red'>Pingjun Chen, He Zhao, Lin Yang</font>
+            <font color='red'>Pingjun Chen, He Zhao, Manish, Lin Yang</font>
         </tr><br />
         <tr>
             <td width="40%" style="border-style:hidden;">
