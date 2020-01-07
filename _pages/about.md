@@ -42,13 +42,13 @@ redirect_from:
     <tbody>
         <tr>
             Spatiotemporal Feature Residual Propagation for Action Prediction
-        </tr>
+        </tr><br />
         <tr>
             <font color='red'>He Zhao, Richard P. Wildes</font>
         </tr>
         <tr>
-            <td>
-                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png" width="300px"  height="200px">
+            <td width="30%">
+                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
             </td>
             <td>
                 <p>
