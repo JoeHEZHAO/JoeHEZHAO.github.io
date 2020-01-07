@@ -40,16 +40,14 @@ redirect_from:
 <table style='background-color:transparent'>
     <tbody>
         <tr>
-            <td>
-                Spatiotemporal Feature Residual Propagation for Action Prediction
-            </td>
+            Spatiotemporal Feature Residual Propagation for Action Prediction
         </tr>
         <tr>
             He Zhao, Richard P. Wildes
         </tr>
         <tr>
             <td>
-                <img src='zh.jpg' width=300, height=200>
+                <img src='https://github.com/JoeHEZHAO/JoeHEZHAO.github.io/tree/master/images/ICCV2019.png' width=300, height=200>
             </td>
             <td>
                 Recognizing actions from limited preliminary video observations \
