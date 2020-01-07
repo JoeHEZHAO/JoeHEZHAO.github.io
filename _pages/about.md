@@ -19,7 +19,7 @@ redirect_from:
 <div id='list_scroll'>
     <nav>
         <ul>
-            <li> 2019.11.20: One anonymous submisson to <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>CVPR2020</b></a></li>
+            <li> 2019.11.20: One anonymous submission to <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>CVPR2020</b></a></li>
             <br />
             <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
             <br />
