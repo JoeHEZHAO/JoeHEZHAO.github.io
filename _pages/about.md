@@ -47,7 +47,7 @@ redirect_from:
         </tr>
         <tr>
             <td>
-                <img src="https://JoeHEZHAO.github.io/images/ICCV2019.png" alt="smile face" width=300, height=200 >
+                <img src="https://JoeHEZHAO.github.io/images/profile.png">
             </td>
             <td>
                 Recognizing actions from limited preliminary video observations \
