@@ -47,10 +47,10 @@ redirect_from:
             <font color='red'>He Zhao, Richard P. Wildes</font>
         </tr>
         <tr>
-            <td width="40%">
+            <td width="40%" style="border-style:hidden;">
                 <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
             </td>
-            <td>
+            <td style="border-style:hidden;">
                 <p style="text-align: justify;">
                 Recognizing actions from limited preliminary video observations
                 has seen considerable recent progress. Typically,
@@ -73,8 +73,8 @@ redirect_from:
             </td>
         </tr>
         <tr>
-            <td> </td>
-            <td>
+            <td style="border-style:hidden;"> </td>
+            <td style="border-style:hidden;">
                 [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
             </td>
         </tr>
