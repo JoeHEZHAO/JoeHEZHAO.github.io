@@ -45,6 +45,9 @@ redirect_from:
         </tr><br />
         <tr>
             <font color='red'>He Zhao, Richard P. Wildes</font>
+        </tr><br />
+        <tr>
+            <font color='green'> International Conference on Computer Vision (ICCV2019)
         </tr>
         <tr>
             <td width="40%" style="border-style:hidden;">
@@ -69,6 +72,80 @@ redirect_from:
                 information about evolution over time. Third, we employ a 
                 Kalman filter to combat error build-up and unify across prediction 
                 start times.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-style:hidden;"> </td>
+            <td style="border-style:hidden;">
+                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
+        <tr>
+            Spatiotemporal Feature Residual Propagation for Action Prediction
+        </tr><br />
+        <tr>
+            <font color='red'>He Zhao, Richard P. Wildes</font>
+        </tr><br />
+        <tr>
+            <font color='green'> International Conference on Computer Vision (ICCV2019)
+        </tr>
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
+            </td>
+            <td style="border-style:hidden;">
+                <p style="text-align: justify;">
+                Recognizing actions from limited preliminary video observations
+                has seen considerable recent progress. Typically,
+                however, such progress has been had without explicitly
+                modeling fine-grained motion evolution as a potentially
+                valuable information source. We address this
+                task by investigating how action patterns evolve over time in 
+                a spatial feature space. There are three key components to 
+                our system. First, we work with intermediate-layer ConvNet 
+                features, which allow for abstraction from raw data, while 
+                retaining spatial layout, which is sacrificed in approaches 
+                that rely on vectorized global representations. Second, instead 
+                of propagating features per se, we propagate their 
+                residuals across time, which allows for a compact representation 
+                that reduces redundancy while retaining essential 
+                information about evolution over time. Third, we employ a 
+                Kalman filter to combat error build-up and unify across prediction 
+                start times.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-style:hidden;"> </td>
+            <td style="border-style:hidden;">
+                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
+        <tr>
+           Construction Scene DPM Object Tracking 
+        </tr><br />
+        <tr>
+            <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
+        </tr><br />
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                <img src="https://JoeHEZHAO.github.io/images/flagDetection.gif">
+                <img src="https://JoeHEZHAO.github.io/images/fireEquimentsDetection.gif">
+            </td>
+            <td style="border-style:hidden;">
+                <p style="text-align: justify;">
+                Built a Local Binary Patterns based software for face recogition, together with Deformable Part Model for object tracking. Implementation these two effective algorithms for contruction site videos with the aim to prevent from stranger invading and fire-fighting equipments stealing. Now we are heading towards implementing MOT on large-scale construction site video to monitor multiple objects.
                 </p>
             </td>
         </tr>
