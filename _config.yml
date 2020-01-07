@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -87,9 +87,9 @@ author:
   name             : "He Zhao"
   avatar           : "zh.jpg"
   bio              : "Email: zhufl@_eecs_yorku_ca"
-  location         : "Location"
+  location         : "North York, Toronto, Ontario, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1HfLkoQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

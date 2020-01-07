@@ -31,7 +31,7 @@ redirect_from:
             <br />
             <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging processing</li>
             <br />
-            <li> 2017.05.01: I graduated from University of Florida Master in Computer Science</li>
+            <li> 2017.05.01: I graduated from University of Florida, Master in Computer Science</li>
         </ul>
     </nav>
 </div>
