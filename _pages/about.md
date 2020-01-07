@@ -19,7 +19,7 @@ redirect_from:
 <div id='list_scroll'>
     <nav>
         <ul>
-            <li> 2019.11.20: One anonymous submission to <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>CVPR2020</b></a></li>
+            <li> 2019.11.20: One anonymous submission to <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>CVPR2020</b></a>.</li>
             <br />
             <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
             <br />
@@ -29,9 +29,9 @@ redirect_from:
             <br />
             <li> 2018.01.01: I received <a href='https://vista.info.yorku.ca/opportunities/doctoral-scholarships/'>VISTA Scholarship</a> that grants 10,000\$ annually for my Ph.D. </li>
             <br />
-            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging processing</li>
+            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging processing. </li>
             <br />
-            <li> 2017.05.01: I graduated from University of Florida, Master in Computer Science</li>
+            <li> 2017.05.01: I graduated from University of Florida, Master in Computer Science. </li>
         </ul>
     </nav>
 </div>
