@@ -38,7 +38,7 @@ redirect_from:
 <br />
 
 # Selected Works
-<table style='background-color:transparent'>
+<table style='background-color:transparent border-collapse:collapse'>
     <tbody>
         <tr>
             Spatiotemporal Feature Residual Propagation for Action Prediction
@@ -47,11 +47,11 @@ redirect_from:
             <font color='red'>He Zhao, Richard P. Wildes</font>
         </tr>
         <tr>
-            <td width="30%">
+            <td width="40%">
                 <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
             </td>
             <td>
-                <p>
+                <p style="text-align: justify;">
                 Recognizing actions from limited preliminary video observations
                 has seen considerable recent progress. Typically,
                 however, such progress has been had without explicitly
