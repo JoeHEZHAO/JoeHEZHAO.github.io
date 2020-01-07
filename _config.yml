@@ -78,6 +78,10 @@ analytics:
     tracking_id          :
 
 
+# Site Selected Work
+selectwork:
+    ICCV2019: "ICCV2019.png"
+
 # Site Author
 author:
   name             : "He Zhao"

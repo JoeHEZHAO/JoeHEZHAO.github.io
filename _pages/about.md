@@ -47,7 +47,7 @@ redirect_from:
         </tr>
         <tr>
             <td>
-                <img src="https://github.com/JoeHEZHAO/JoeHEZHAO.github.io/tree/master/images/ICCV2019.png" alt="Smiley face" width=300, height=200 />
+                <img src="{{ selectwork.ICCV2019 | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
             </td>
             <td>
                 Recognizing actions from limited preliminary video observations \
