@@ -38,7 +38,7 @@ redirect_from:
 <br />
 
 # Selected Works
-<table style='background-color:transparent border-collapse:collapse'>
+<table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
             Spatiotemporal Feature Residual Propagation for Action Prediction
