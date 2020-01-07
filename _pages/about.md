@@ -48,7 +48,7 @@ redirect_from:
         </tr>
         <tr>
             <td>
-                <img src="https://JoeHEZHAO.github.io/images/profile.png">
+                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
                 <img src="{{ selectwork.ICCV2019 | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
             </td>
             <td>
