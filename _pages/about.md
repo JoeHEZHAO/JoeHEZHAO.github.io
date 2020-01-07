@@ -41,7 +41,7 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
-            Spatiotemporal Feature Residual Propagation for Action Prediction
+            <span style="bold; color: #000066;">Spatiotemporal Feature Residual Propagation for Action Prediction</span>
         </tr><br />
         <tr>
             <font color='red'>He Zhao, Richard P. Wildes</font>
@@ -87,7 +87,7 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
-           Construction Scene DPM Object Tracking 
+            <span style="bold; color: #000066;">Construction Scene DPM Object Tracking</span>
         </tr><br />
         <tr>
             <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
@@ -109,10 +109,10 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
-            Deep Convolution Neural Network for Muscle Cell Segmentation 
+            <span style="bold; color: #000066;">Deep Convolution Neural Network for Muscle Cell Segmentation</span>
         </tr><br />
         <tr>
-            <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
+            <font color='red'>He Zhao, Shaoju Wu, Lin Yang</font>
         </tr><br />
         <tr>
             <td width="40%" style="border-style:hidden;">
@@ -131,10 +131,10 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
-           Random Forest Muscle Cell Segmentation 
+            <span style="bold; color: #000066;">Random Forest Muscle Cell Segmentation</span>
         </tr><br />
         <tr>
-            <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
+            <font color='red'>He Zhao, Shaoju Wu, Pingjun Chen, Lin Yang</font>
         </tr><br />
         <tr>
             <td width="40%" style="border-style:hidden;">
