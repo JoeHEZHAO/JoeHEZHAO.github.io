@@ -44,12 +44,11 @@ redirect_from:
             Spatiotemporal Feature Residual Propagation for Action Prediction
         </tr>
         <tr>
-            He Zhao, Richard P. Wildes
+            <font color='red'>He Zhao, Richard P. Wildes</font>
         </tr>
         <tr>
             <td>
-                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
-                <img src="{{ selectwork.ICCV2019 | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
+                <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png" width="300px"  height="200px">
             </td>
             <td>
                 <p>
@@ -57,7 +56,7 @@ redirect_from:
                 has seen considerable recent progress. Typically,
                 however, such progress has been had without explicitly
                 modeling fine-grained motion evolution as a potentially
-                valuable information source. In this study, we address this
+                valuable information source. We address this
                 task by investigating how action patterns evolve over time in 
                 a spatial feature space. There are three key components to 
                 our system. First, we work with intermediate-layer ConvNet 
@@ -69,7 +68,7 @@ redirect_from:
                 that reduces redundancy while retaining essential 
                 information about evolution over time. Third, we employ a 
                 Kalman filter to combat error build-up and unify across prediction 
-                start times. Extensive experimental results on the JHMDB21, UCF101 and BIT datasets show that our approach leads to a new state-of-the-art in action prediction
+                start times.
                 </p>
             </td>
         </tr>
