@@ -14,10 +14,12 @@ redirect_from:
 [2015-2017]
 > Before my Ph.D. journey, I worked with Professor <a href='https://www.bme.ufl.edu/labs/yang/'> Lin Yang</a> at University of Florida (<font color='orange'>Go</font> <font color='blue'>Gator</font> !) as a master research assitant. During my stay, we came out some really cool projects towards biomedical imaging understanding (as listed below). 
 
-## Recent News
+# Recent News
 <div id='list_scroll'>
     <nav>
         <ul>
+            <li> 2019.11.20: One anonymous submisson to <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>CVPR2020</b></a></li>
+            <br />
             <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
             <br />
             <li> 2018.01.15: I become a Ph.D. student in <a href='http://vision.eecs.yorku.ca/main/'>Vision Lab</a> </li>
@@ -32,3 +34,47 @@ redirect_from:
         </ul>
     </nav>
 </div>
+
+# Selected Works
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Spatiotemporal Feature Residual Propagation for Action Prediction
+            </td>
+            <td>
+                He Zhao, Richard P. Wildes
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src='zh.jpg' width=300, height=200>
+            </td>
+            <td>
+                Recognizing actions from limited preliminary video observations \
+                has seen considerable recent progress. Typically, \
+                however, such progress has been had without explicitly \
+                modeling fine-grained motion evolution as a potentially \
+                valuable information source. In this study, we address this \
+                task by investigating how action patterns evolve over time in \
+                a spatial feature space. There are three key components to \
+                our system. First, we work with intermediate-layer ConvNet \
+                features, which allow for abstraction from raw data, while \
+                retaining spatial layout, which is sacrificed in approaches \
+                that rely on vectorized global representations. Second, instead \
+                of propagating features per se, we propagate their \
+                residuals across time, which allows for a compact representation \
+                that reduces redundancy while retaining essential \
+                information about evolution over time. Third, we employ a \
+                Kalman filter to combat error build-up and unify across prediction \
+                start times. Extensive experimental results on the JHMDB21, UCF101 and BIT datasets show that our approach leads to a new state-of-the-art in action prediction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
+            </td>
+        </tr>
+
+    </tbody>
+
