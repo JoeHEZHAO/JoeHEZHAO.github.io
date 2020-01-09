@@ -78,7 +78,7 @@ redirect_from:
         <tr>
             <td style="border-style:hidden;"> </td>
             <td style="border-style:hidden;">
-                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='JoeHEZHAO.github'>code</a>]
+                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='https://github.com/JoeHEZHAO/Spatiotemporal-Residual-Propagation'>code</a>]
             </td>
         </tr>
     </tbody>
