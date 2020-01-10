@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * Summer 2017: Research Assistant
-  * Deepinformatics LLC, Shanghai, China
-  * Duties included: R & D
+  * Deepinformatics LLC, Microsoft Incubator, Shanghai, China
+  * Duties included: R&D
   * Supervisor: Professor Lin Yang
 
 * Fall 2015 - Spring 2017: Master Student 
@@ -43,11 +43,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+> Talks
+> ======
+>   <ul>{% for post in site.talks %}
+>     {% include archive-single-talk-cv.html %}
+>   {% endfor %}</ul>
   
 Teaching
 ======

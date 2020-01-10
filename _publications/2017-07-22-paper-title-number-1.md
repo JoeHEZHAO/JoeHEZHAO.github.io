@@ -2,13 +2,9 @@
 title: "Spatiotemporal feature residual propagation for action prediction"
 collection: publications
 permalink: /publication/2019-07-22-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-07-22
 venue: 'International Conference on Computer Vision'
-paperurl: 'http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_    Action_Prediction_ICCV_2019_paper.pdf'
-citation: 'He Zhao, Richard P. Wildes. (2009). &quot;Paper Title Number 1.&quot; <i>ICCV-2019</i>. 1(1).'
+paperurl: 'http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'
+citation: 'He Zhao, Richard P. Wildes. (2009). quot; <i>ICCV-2019</i>. 1(1).'
 ---
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-> Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
