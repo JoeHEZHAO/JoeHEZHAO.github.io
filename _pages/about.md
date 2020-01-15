@@ -87,7 +87,7 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
-            <span style="bold; color: #000066;">Construction Scene DPM Object Tracking</span>
+            <span style="bold; color: #000066;">Construction Scene DPM Object Tracking via Detection</span>
         </tr><br />
         <tr>
             <font color='red'>He Zhao, Pingjun Chen, Lin Yang</font>
