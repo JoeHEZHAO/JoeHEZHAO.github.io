@@ -29,7 +29,7 @@ redirect_from:
             <br />
             <li> 2018.01.01: I received <a href='https://vista.info.yorku.ca/opportunities/doctoral-scholarships/'>VISTA Scholarship</a> that grants 10,000\$ annually for my Ph.D. </li>
             <br />
-            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics LLC.</a> for biomedical imaging processing. </li>
+            <li> 2017.06~09: I did research summer internship with <a href='http://deepinformatics.com.cn/'>Deepinformatics++ LLC. (迪英加科技)</a> for biomedical imaging processing. </li>
             <br />
             <li> 2017.05.01: I graduated from University of Florida, Master in Computer Science. </li>
         </ul>
