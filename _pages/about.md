@@ -23,7 +23,7 @@ redirect_from:
 <div id='list_scroll'>
     <nav>
         <ul>
-            <li> 2020.07.03: My paper "<b> On Diverse Asychronous Activity Anticiption" gets accepted at ECCV2020 !! See u at online conference</li>
+            <li> 2020.07.03: My paper "<b>On Diverse Asychronous Activity Anticiption</b>" gets accepted at ECCV2020 !! See u at online conference</li>
             <br />
             <li> 2019.07.22: My paper "<b>Spatiotemporal Feature Residual Propagation for Action Prediction</b>" get accepted at <a href='http://openaccess.thecvf.com/ICCV2019.py'><b>ICCV2019</b></a> ! See you in Seoul ! </li>
             <br />
