@@ -46,6 +46,47 @@ redirect_from:
 <table style='background-color:transparent border-collapse:collapse border: none'>
     <tbody>
         <tr>
+            <span style="bold; color: #000066;">On Diverse Asychronous Activity Anticipation </span>
+        </tr><br />
+        <tr>
+            <font color='red'>He Zhao, Richard P. Wildes</font>
+        </tr><br />
+        <tr>
+            <font color='green'> European Conference on Computer Vision (ECCV2020) </font>
+        </tr>
+        <tr>
+            <td width="40%" style="border-style:hidden;">
+                > <img src="https://JoeHEZHAO.github.io/images/iccv_2019.png">
+            </td>
+            <td style="border-style:hidden;">
+                <p style="text-align: justify;">
+                We investigate the joint anticipation of long-term activity labels and their 
+                corresponding times with the aim of improving both the naturalness and diversity of 
+                predictions. We address these matters using Conditional Adversarial Generative Networks 
+                for Discrete Sequences. Central to our approach is a reexamination of the unadvoidable 
+                sample quality vs. diversity tradeoff of the recently emerged Gumbel-Softmax relaxation 
+                based on discrete data. In particular, we ameliorate this trade-off with a simple but 
+                effective sample distance regularizer. Moreover, we provide a unified approach to inference 
+                of activity labels and their times so that a single integrated optimization succeeds for both. 
+                With this novel approach in hand, we demonstrate the effectiveness of the resulting discrete 
+                sequential GAN on multimodal activity anticipation. We evaluate the approach on three standard 
+                datasets and show that it outperforms previous approaches in terms of both accuracy and diversity,
+                thereby yielding a new state-of-the-art in activity anticipation.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-style:hidden;"> </td>
+            <td style="border-style:hidden;">
+                [<a href='http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf'>pdf</a>][<a href='https://github.com/JoeHEZHAO/Spatiotemporal-Residual-Propagation'>code:TBA</a>]
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table style='background-color:transparent border-collapse:collapse border: none'>
+    <tbody>
+        <tr>
             <span style="bold; color: #000066;">Spatiotemporal Feature Residual Propagation for Action Prediction</span>
         </tr><br />
         <tr>
